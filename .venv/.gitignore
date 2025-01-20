@@ -1,0 +1,6 @@
+.env
+config.py
+config
+.venv
+pyvenv.cfg
+db.sqlite3
